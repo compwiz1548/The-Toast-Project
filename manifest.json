@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Toast Project",
-  "version": "0.5.1",
+  "version": "0.6",
   "author": "BasicallyToast, Compwiz1548",
   "projectID": 257819,
   "files": [
@@ -361,11 +361,6 @@
       "required": true
     },
     {
-      "projectID": 224029,
-      "fileID": 2259434,
-      "required": true
-    },
-    {
       "projectID": 235440,
       "fileID": 2356393,
       "required": true
@@ -388,11 +383,6 @@
     {
       "projectID": 69118,
       "fileID": 2280761,
-      "required": true
-    },
-    {
-      "projectID": 59203,
-      "fileID": 2250071,
       "required": true
     },
     {
@@ -676,16 +666,6 @@
       "required": true
     },
     {
-      "projectID": 72503,
-      "fileID": 2272713,
-      "required": true
-    },
-    {
-      "projectID": 72505,
-      "fileID": 2272528,
-      "required": true
-    },
-    {
       "projectID": 230156,
       "fileID": 2272347,
       "required": true
@@ -723,6 +703,61 @@
     {
       "projectID": 60089,
       "fileID": 2209265,
+      "required": true
+    },
+    {
+      "projectID": 226406,
+      "fileID": 2264779,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2291433,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2291494,
+      "required": true
+    },
+    {
+      "projectID": 239197,
+      "fileID": 2338487,
+      "required": true
+    },
+    {
+      "projectID": 220954,
+      "fileID": 2313730,
+      "required": true
+    },
+    {
+      "projectID": 72728,
+      "fileID": 2299292,
+      "required": true
+    },
+    {
+      "projectID": 242677,
+      "fileID": 2292386,
+      "required": true
+    },
+    {
+      "projectID": 242838,
+      "fileID": 2350161,
+      "required": true
+    },
+    {
+      "projectID": 222838,
+      "fileID": 2279949,
+      "required": true
+    },
+    {
+      "projectID": 78057,
+      "fileID": 2272157,
+      "required": true
+    },
+    {
+      "projectID": 226447,
+      "fileID": 2292845,
       "required": true
     }
   ],

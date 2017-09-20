@@ -10,9 +10,10 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "The Toast Project (2)",
-  "version": "1.10.2-0.0.1",
-  "author": "compwiz1548",
+  "name": "The Toast Project",
+  "version": "0.0.3",
+  "author": "BasicallyToast",
+  "projectID": 257819,
   "files": [
     {
       "projectID": 223008,
@@ -440,11 +441,6 @@
       "required": true
     },
     {
-      "projectID": 252188,
-      "fileID": 2336496,
-      "required": true
-    },
-    {
       "projectID": 229060,
       "fileID": 2465605,
       "required": true
@@ -596,7 +592,7 @@
     },
     {
       "projectID": 251182,
-      "fileID": 2411002,
+      "fileID": 2422968,
       "required": true
     },
     {
@@ -622,6 +618,31 @@
     {
       "projectID": 228832,
       "fileID": 2380911,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2393772,
+      "required": true
+    },
+    {
+      "projectID": 223891,
+      "fileID": 2381996,
+      "required": true
+    },
+    {
+      "projectID": 237862,
+      "fileID": 2382000,
+      "required": true
+    },
+    {
+      "projectID": 267939,
+      "fileID": 2433009,
+      "required": true
+    },
+    {
+      "projectID": 235442,
+      "fileID": 2436660,
       "required": true
     }
   ],

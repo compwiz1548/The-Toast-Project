@@ -145,12 +145,12 @@ minecraft:stained_glass:13, Green Stained Glass
 minecraft:stained_glass:14, Red Stained Glass
 minecraft:stained_glass:15, Black Stained Glass
 minecraft:trapdoor, Wooden Trapdoor
-minecraft:monster_egg:0, Stone Monster Egg
-minecraft:monster_egg:1, Cobblestone Monster Egg
-minecraft:monster_egg:2, Stone Brick Monster Egg
-minecraft:monster_egg:3, Mossy Stone Brick Monster Egg
-minecraft:monster_egg:4, Cracked Stone Brick Monster Egg
-minecraft:monster_egg:5, Chiseled Stone Brick Monster Egg
+minecraft:monster_egg:0, Stone §4Monster Egg§r
+minecraft:monster_egg:1, Cobblestone §4Monster Egg§r
+minecraft:monster_egg:2, Stone Brick §4Monster Egg§r
+minecraft:monster_egg:3, Mossy Stone Brick §4Monster Egg§r
+minecraft:monster_egg:4, Cracked Stone Brick §4Monster Egg§r
+minecraft:monster_egg:5, Chiseled Stone Brick §4Monster Egg§r
 minecraft:stonebrick:0, Stone Bricks
 minecraft:stonebrick:1, Mossy Stone Bricks
 minecraft:stonebrick:2, Cracked Stone Bricks
@@ -393,7 +393,7 @@ minecraft:redstone, Redstone
 minecraft:snowball, Snowball
 minecraft:boat, Oak Boat
 minecraft:leather, Leather
-minecraft:milk_bucket, Milk Bucket
+minecraft:milk_bucket, Milk
 minecraft:brick, Brick
 minecraft:clay_ball, Clay
 minecraft:reeds, Sugar Canes
@@ -1937,12 +1937,12 @@ appliedenergistics2:facade:0, Cable Facade - Brown Stained Glass
 appliedenergistics2:facade:0, Cable Facade - Green Stained Glass
 appliedenergistics2:facade:0, Cable Facade - Red Stained Glass
 appliedenergistics2:facade:0, Cable Facade - Black Stained Glass
-appliedenergistics2:facade:0, Cable Facade - Stone Monster Egg
-appliedenergistics2:facade:0, Cable Facade - Cobblestone Monster Egg
-appliedenergistics2:facade:0, Cable Facade - Stone Brick Monster Egg
-appliedenergistics2:facade:0, Cable Facade - Mossy Stone Brick Monster Egg
-appliedenergistics2:facade:0, Cable Facade - Cracked Stone Brick Monster Egg
-appliedenergistics2:facade:0, Cable Facade - Chiseled Stone Brick Monster Egg
+appliedenergistics2:facade:0, Cable Facade - Stone §4Monster Egg§r
+appliedenergistics2:facade:0, Cable Facade - Cobblestone §4Monster Egg§r
+appliedenergistics2:facade:0, Cable Facade - Stone Brick §4Monster Egg§r
+appliedenergistics2:facade:0, Cable Facade - Mossy Stone Brick §4Monster Egg§r
+appliedenergistics2:facade:0, Cable Facade - Cracked Stone Brick §4Monster Egg§r
+appliedenergistics2:facade:0, Cable Facade - Chiseled Stone Brick §4Monster Egg§r
 appliedenergistics2:facade:0, Cable Facade - Stone Bricks
 appliedenergistics2:facade:0, Cable Facade - Mossy Stone Bricks
 appliedenergistics2:facade:0, Cable Facade - Cracked Stone Bricks
@@ -4484,6 +4484,7 @@ appliedenergistics2:facade:0, Cable Facade - Mine Wall
 appliedenergistics2:facade:0, Cable Facade - Mine Wall
 appliedenergistics2:facade:0, Cable Facade - Mine Wall
 appliedenergistics2:facade:0, Cable Facade - Mine Wall
+appliedenergistics2:facade:0, Cable Facade - Secret Passage???
 appliedenergistics2:facade:0, Cable Facade - Mine Floor
 appliedenergistics2:facade:0, Cable Facade - Mine Floor
 appliedenergistics2:facade:0, Cable Facade - Compact Raw Porkchop
@@ -4749,8 +4750,6 @@ appliedenergistics2:facade:0, Cable Facade - Light Blue Rockwool
 appliedenergistics2:facade:0, Cable Facade - Magenta Rockwool
 appliedenergistics2:facade:0, Cable Facade - Orange Rockwool
 appliedenergistics2:facade:0, Cable Facade - White Rockwool
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
 appliedenergistics2:facade:0, Cable Facade - Fluxed Plank
 appliedenergistics2:facade:0, Cable Facade - Imbued Plank
 appliedenergistics2:facade:0, Cable Facade - Fluxed Log
@@ -8919,12 +8918,12 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Stained Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Green Stained Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Red Stained Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Black Stained Glass
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
-chiselsandbits:block_bit:0, Chiseled Bit - Stone Monster Egg
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
+chiselsandbits:block_bit:0, Chiseled Bit - Stone §4Monster Egg§r
 chiselsandbits:block_bit:0, Chiseled Bit - Stone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Mossy Stone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Cracked Stone Bricks
@@ -11829,8 +11828,10 @@ chiselsandbits:block_bit:0, Chiseled Bit - Mine Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Mine Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Mine Wall
 chiselsandbits:block_bit:0, Chiseled Bit - Mine Wall
+chiselsandbits:block_bit:0, Chiseled Bit - Secret Passage???
 chiselsandbits:block_bit:0, Chiseled Bit - Mine Floor
 chiselsandbits:block_bit:0, Chiseled Bit - Compact Raw Porkchop
+chiselsandbits:block_bit:0, Chiseled Bit - Rusty Ladder
 chiselsandbits:block_bit:0, Chiseled Bit - Osmium Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
@@ -12099,8 +12100,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Light Blue Rockwool
 chiselsandbits:block_bit:0, Chiseled Bit - Magenta Rockwool
 chiselsandbits:block_bit:0, Chiseled Bit - Orange Rockwool
 chiselsandbits:block_bit:0, Chiseled Bit - White Rockwool
-chiselsandbits:block_bit:0, Chiseled Bit - Copper Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Tin Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Fluxed Plank
 chiselsandbits:block_bit:0, Chiseled Bit - Imbued Plank
 chiselsandbits:block_bit:0, Chiseled Bit - Fluxed Log
@@ -12276,7 +12275,7 @@ correlated:misc:2, Metallic Drive Platter
 correlated:misc:3, Luminous Pearl
 correlated:misc:4, Luminous Torch
 correlated:misc:5, Volatile Dust
-correlated:misc:6, §kU§rnstab§kl§re P§ke§r§ka§rrl
+correlated:misc:6, Unstable Pearl
 correlated:misc:7, Unfinished Organic Circuit
 correlated:misc:8, Data Core
 correlated:drive:0, 1 MiB Drive
@@ -14806,6 +14805,7 @@ evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
 evilcraft:biomeExtract:1, Biome Extract
+evilcraft:biomeExtract:1, Biome Extract
 evilcraft:environmentalAccumulationCore, Environmental Accumulation Core
 evilcraft:maceOfDestruction, Mace of Destruction
 evilcraft:garmonbozia, Garmonbozia
@@ -15232,67 +15232,6 @@ forestry:resourceStorage:0, Block of Apatite
 forestry:resourceStorage:1, Block of Copper
 forestry:resourceStorage:2, Block of Tin
 forestry:resourceStorage:3, Block of Bronze
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
-forestry:worktable:0, Worktable
-forestry:fluid.bio.ethanol, Ethanol
-forestry:fluid.biomass, Biomass
-forestry:fluid.glass, Liquid Glass
-forestry:fluid.for.honey, Honey
-forestry:fluid.ice, Crushed Ice
-forestry:fluid.juice, Fruit Juice
-forestry:fluid.milk, Milk
-forestry:fluid.seed.oil, Seed Oil
-forestry:fluid.short.mead, Short Mead
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:greenhouse.plain:0, Greenhouse Block
-forestry:greenhouse.glass:0, Greenhouse Glass
-forestry:greenhouse.hatch_input:0, Greenhouse Input Hatch
-forestry:greenhouse.hatch_output:0, Greenhouse Output Hatch
-forestry:greenhouse.gearbox:0, Greenhouse Gearbox
-forestry:greenhouse.valve:0, Greenhouse Valve
-forestry:greenhouse.fan:0, Greenhouse Fan
-forestry:greenhouse.heater:0, Greenhouse Heater
-forestry:greenhouse.dryer:0, Greenhouse Dryer
-forestry:greenhouse.control:0, Greenhouse Control
-forestry:greenhouse.sprinkler:0, Greenhouse Sprinkler
-forestry:greenhouse.door:0, Greenhouse Door
-forestry:greenhouse.climate_control:0, Greenhouse Climate Control
-forestry:greenhouse.window:0, Greenhouse Window
-forestry:greenhouse.window_up:0, Greenhouse Roof Window
-forestry:greenhouse.butterfly_hatch:0, Greenhouse Butterfly Hatch
-forestry:engine_electrical:0, Electrical Engine
-forestry:engine_generator:0, Bio Generator
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
-forestry:engine_peat:0, Peat-fired Engine
-forestry:engine_biogas:0, Biogas Engine
-forestry:engine_clockwork:0, Clockwork Engine
-forestry:honeyedSlice, Honeyed Slice
-forestry:beverage, item.for.beverage.name
-forestry:ambrosia, Ambrosia
-forestry:honeyPot, Honey Pot
-forestry:infuser, Infuser
 forestry:beeQueenGE:0, Forest Queen
 forestry:beeQueenGE:0, Meadows Queen
 forestry:beeQueenGE:0, Common Queen
@@ -15503,6 +15442,45 @@ forestry:alveary.heater:0, Alveary Heater
 forestry:alveary.hygro:0, Alveary Hygroregulator
 forestry:alveary.stabiliser:0, Alveary Stabiliser
 forestry:alveary.sieve:0, Alveary Sieve
+forestry:butterflyGE:0, Brimstone Moth Butterfly
+forestry:butterflyGE:0, Cabbage White Butterfly
+forestry:butterflyGE:0, Brimstone Butterfly
+forestry:butterflyGE:0, Citrus Swallowtail Butterfly
+forestry:butterflyGE:0, Black Swallowtail Butterfly
+forestry:butterflyGE:0, Speckled Wood Butterfly
+forestry:serumGE:0, Brimstone Moth Serum
+forestry:serumGE:0, Cabbage White Serum
+forestry:serumGE:0, Brimstone Serum
+forestry:serumGE:0, Citrus Swallowtail Serum
+forestry:serumGE:0, Black Swallowtail Serum
+forestry:serumGE:0, Speckled Wood Serum
+forestry:caterpillarGE:0, Brimstone Moth Caterpillar
+forestry:caterpillarGE:0, Cabbage White Caterpillar
+forestry:caterpillarGE:0, Brimstone Caterpillar
+forestry:caterpillarGE:0, Citrus Swallowtail Caterpillar
+forestry:caterpillarGE:0, Black Swallowtail Caterpillar
+forestry:caterpillarGE:0, Speckled Wood Caterpillar
+forestry:cocoonGE:0, Brimstone Moth Cocoon
+forestry:cocoonGE:0, Cabbage White Cocoon
+forestry:cocoonGE:0, Brimstone Cocoon
+forestry:cocoonGE:0, Citrus Swallowtail Cocoon
+forestry:cocoonGE:0, Black Swallowtail Cocoon
+forestry:cocoonGE:0, Speckled Wood Cocoon
+forestry:cocoonGE:0, Brimstone Moth Cocoon
+forestry:cocoonGE:0, Cabbage White Cocoon
+forestry:cocoonGE:0, Brimstone Cocoon
+forestry:cocoonGE:0, Citrus Swallowtail Cocoon
+forestry:cocoonGE:0, Black Swallowtail Cocoon
+forestry:cocoonGE:0, Speckled Wood Cocoon
+forestry:cocoonGE:0, Brimstone Moth Cocoon
+forestry:cocoonGE:0, Cabbage White Cocoon
+forestry:cocoonGE:0, Brimstone Cocoon
+forestry:cocoonGE:0, Citrus Swallowtail Cocoon
+forestry:cocoonGE:0, Black Swallowtail Cocoon
+forestry:cocoonGE:0, Speckled Wood Cocoon
+forestry:butterfly_chest:0, Lepidopterist's Chest
+forestry:cocoon:0, tile.for.cocoon.name
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name
 forestry:mushroom:0, tile.for.mushroom.name
 forestry:mushroom:1, tile.for.mushroom.name
 forestry:ffarm:0, Farm Block
@@ -15560,60 +15538,8 @@ forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
-forestry:crate, Crate
-forestry:apiaristBag, Apiarist's Backpack
-forestry:lepidopteristBag, Lepidopterist's Backpack
-forestry:minerBag, Mining Backpack
-forestry:minerBagT2, Woven Mining Backpack
-forestry:diggerBag, Digging Backpack
-forestry:diggerBagT2, Woven Digging Backpack
-forestry:foresterBag, Foresting Backpack
-forestry:foresterBagT2, Woven Foresting Woven Backpack
-forestry:hunterBag, Hunting Backpack
-forestry:hunterBagT2, Hunter's Woven Backpack
-forestry:adventurerBag, Adventuring Backpack
-forestry:adventurerBagT2, Woven Adventuring Backpack
-forestry:builderBag, Building Backpack
-forestry:builderBagT2, Woven Building Backpack
-forestry:butterflyGE:0, Brimstone Moth Butterfly
-forestry:butterflyGE:0, Cabbage White Butterfly
-forestry:butterflyGE:0, Brimstone Butterfly
-forestry:butterflyGE:0, Citrus Swallowtail Butterfly
-forestry:butterflyGE:0, Black Swallowtail Butterfly
-forestry:butterflyGE:0, Speckled Wood Butterfly
-forestry:serumGE:0, Brimstone Moth Serum
-forestry:serumGE:0, Cabbage White Serum
-forestry:serumGE:0, Brimstone Serum
-forestry:serumGE:0, Citrus Swallowtail Serum
-forestry:serumGE:0, Black Swallowtail Serum
-forestry:serumGE:0, Speckled Wood Serum
-forestry:caterpillarGE:0, Brimstone Moth Caterpillar
-forestry:caterpillarGE:0, Cabbage White Caterpillar
-forestry:caterpillarGE:0, Brimstone Caterpillar
-forestry:caterpillarGE:0, Citrus Swallowtail Caterpillar
-forestry:caterpillarGE:0, Black Swallowtail Caterpillar
-forestry:caterpillarGE:0, Speckled Wood Caterpillar
-forestry:cocoonGE:0, Brimstone Moth Cocoon
-forestry:cocoonGE:0, Cabbage White Cocoon
-forestry:cocoonGE:0, Brimstone Cocoon
-forestry:cocoonGE:0, Citrus Swallowtail Cocoon
-forestry:cocoonGE:0, Black Swallowtail Cocoon
-forestry:cocoonGE:0, Speckled Wood Cocoon
-forestry:cocoonGE:0, Brimstone Moth Cocoon
-forestry:cocoonGE:0, Cabbage White Cocoon
-forestry:cocoonGE:0, Brimstone Cocoon
-forestry:cocoonGE:0, Citrus Swallowtail Cocoon
-forestry:cocoonGE:0, Black Swallowtail Cocoon
-forestry:cocoonGE:0, Speckled Wood Cocoon
-forestry:cocoonGE:0, Brimstone Moth Cocoon
-forestry:cocoonGE:0, Cabbage White Cocoon
-forestry:cocoonGE:0, Brimstone Cocoon
-forestry:cocoonGE:0, Citrus Swallowtail Cocoon
-forestry:cocoonGE:0, Black Swallowtail Cocoon
-forestry:cocoonGE:0, Speckled Wood Cocoon
-forestry:butterfly_chest:0, Lepidopterist's Chest
-forestry:cocoon:0, tile.for.cocoon.name
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name
+forestry:engine_electrical:0, Electrical Engine
+forestry:engine_generator:0, Bio Generator
 forestry:sapling:0, Apple Oak Sapling
 forestry:sapling:0, Dark Oak Sapling
 forestry:sapling:0, Silver Birch Sapling
@@ -16172,6 +16098,80 @@ forestry:pile_wood:0, Date Palm Wood Pile
 forestry:pile_wood:0, White Poplar Wood Pile
 forestry:pile_dirt:0, Loam
 forestry:tree_chest:0, Arborist's Chest
+forestry:greenhouse.plain:0, Greenhouse Block
+forestry:greenhouse.glass:0, Greenhouse Glass
+forestry:greenhouse.hatch_input:0, Greenhouse Input Hatch
+forestry:greenhouse.hatch_output:0, Greenhouse Output Hatch
+forestry:greenhouse.gearbox:0, Greenhouse Gearbox
+forestry:greenhouse.valve:0, Greenhouse Valve
+forestry:greenhouse.fan:0, Greenhouse Fan
+forestry:greenhouse.heater:0, Greenhouse Heater
+forestry:greenhouse.dryer:0, Greenhouse Dryer
+forestry:greenhouse.control:0, Greenhouse Control
+forestry:greenhouse.sprinkler:0, Greenhouse Sprinkler
+forestry:greenhouse.door:0, Greenhouse Door
+forestry:greenhouse.climate_control:0, Greenhouse Climate Control
+forestry:greenhouse.window:0, Greenhouse Window
+forestry:greenhouse.window_up:0, Greenhouse Roof Window
+forestry:greenhouse.butterfly_hatch:0, Greenhouse Butterfly Hatch
+forestry:engine_peat:0, Peat-fired Engine
+forestry:engine_biogas:0, Biogas Engine
+forestry:engine_clockwork:0, Clockwork Engine
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
+forestry:honeyedSlice, Honeyed Slice
+forestry:beverage, item.for.beverage.name
+forestry:ambrosia, Ambrosia
+forestry:honeyPot, Honey Pot
+forestry:infuser, Infuser
+forestry:fluid.bio.ethanol, Ethanol
+forestry:fluid.biomass, Biomass
+forestry:fluid.glass, Liquid Glass
+forestry:fluid.for.honey, Honey
+forestry:fluid.ice, Crushed Ice
+forestry:fluid.juice, Fruit Juice
+forestry:fluid.milk, Milk
+forestry:fluid.seed.oil, Seed Oil
+forestry:fluid.short.mead, Short Mead
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
+forestry:crate, Crate
+forestry:apiaristBag, Apiarist's Backpack
+forestry:lepidopteristBag, Lepidopterist's Backpack
+forestry:minerBag, Mining Backpack
+forestry:minerBagT2, Woven Mining Backpack
+forestry:diggerBag, Digging Backpack
+forestry:diggerBagT2, Woven Digging Backpack
+forestry:foresterBag, Foresting Backpack
+forestry:foresterBagT2, Woven Foresting Woven Backpack
+forestry:hunterBag, Hunting Backpack
+forestry:hunterBagT2, Hunter's Woven Backpack
+forestry:adventurerBag, Adventuring Backpack
+forestry:adventurerBagT2, Woven Adventuring Backpack
+forestry:builderBag, Building Backpack
+forestry:builderBagT2, Woven Building Backpack
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
+forestry:worktable:0, Worktable
 forestry:crated.forestry.peat.0, item.crated.forestry.peat.0.name
 forestry:crated.forestry.apatite.0, item.crated.forestry.apatite.0.name
 forestry:crated.forestry.fertilizerCompound.0, item.crated.forestry.fertilizerCompound.0.name
@@ -16230,12 +16230,6 @@ forestry:crated.minecraft.sapling.2, item.crated.minecraft.sapling.2.name
 forestry:crated.minecraft.sapling.3, item.crated.minecraft.sapling.3.name
 forestry:crated.minecraft.sapling.4, item.crated.minecraft.sapling.4.name
 forestry:crated.minecraft.sapling.5, item.crated.minecraft.sapling.5.name
-forestry:crated.ic2.misc_resource.4, item.crated.ic2.misc_resource.4.name
-forestry:crated.ic2.crafting.0, item.crated.ic2.crafting.0.name
-forestry:crated.ic2.crafting.23, item.crated.ic2.crafting.23.name
-forestry:crated.ic2.misc_resource.3, item.crated.ic2.misc_resource.3.name
-forestry:crated.ic2.ingot.4, item.crated.ic2.ingot.4.name
-forestry:crated.ic2.ingot.1, item.crated.ic2.ingot.1.name
 forestry:crated.forestry.beeswax.0, item.crated.forestry.beeswax.0.name
 forestry:crated.forestry.pollen.0, item.crated.forestry.pollen.0.name
 forestry:crated.forestry.pollen.1, item.crated.forestry.pollen.1.name
@@ -16256,6 +16250,12 @@ forestry:crated.forestry.beeCombs.14, item.crated.forestry.beeCombs.14.name
 forestry:crated.forestry.beeCombs.15, item.crated.forestry.beeCombs.15.name
 forestry:crated.forestry.beeCombs.16, item.crated.forestry.beeCombs.16.name
 forestry:crated.forestry.refractoryWax.0, item.crated.forestry.refractoryWax.0.name
+forestry:crated.ic2.misc_resource.4, item.crated.ic2.misc_resource.4.name
+forestry:crated.ic2.crafting.0, item.crated.ic2.crafting.0.name
+forestry:crated.ic2.crafting.23, item.crated.ic2.crafting.23.name
+forestry:crated.ic2.misc_resource.3, item.crated.ic2.misc_resource.3.name
+forestry:crated.ic2.ingot.4, item.crated.ic2.ingot.4.name
+forestry:crated.ic2.ingot.1, item.crated.ic2.ingot.1.name
 forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name
 forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name
 forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name
@@ -16429,32 +16429,32 @@ tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
 tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:shard:0, Wooden Shard
 tconstruct:shard:0, Stone Shard
 tconstruct:shard:0, Flint Shard
@@ -17713,6 +17713,13 @@ tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
 tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
+tconstruct:toolforge:0, Tool Forge
 tconstruct:pickaxe, Pickaxe
 tconstruct:shovel, Shovel
 tconstruct:hatchet, Hatchet
@@ -17782,28 +17789,28 @@ tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
@@ -17812,28 +17819,28 @@ tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
@@ -18220,56 +18227,52 @@ immersiveengineering:molten_uranium, Molten Uranium
 immersiveengineering:molten_constantan, Molten Constantan
 harvestfestival:flowers:0, §bGoddess Flower
 harvestfestival:flowers:1, Weed
+harvestfestival:flowers:2, Moondrop Flower
+harvestfestival:flowers:3, Toy Flower
+harvestfestival:flowers:4, Pinkcat Flower
+harvestfestival:flowers:5, Blue Magic Flower
+harvestfestival:flowers:6, Red Magic Flower
 harvestfestival:storage:0, Shipment Box
-harvestfestival:sizeable:0, Small Egg
-harvestfestival:sizeable:1, Medium Egg
-harvestfestival:sizeable:2, Large Egg
-harvestfestival:sizeable:3, Small Milk
-harvestfestival:sizeable:4, Medium Milk
-harvestfestival:sizeable:5, Large Milk
-harvestfestival:sizeable:6, Small Mayonnaise
-harvestfestival:sizeable:7, Medium Mayonnaise
-harvestfestival:sizeable:8, Large Mayonnaise
-harvestfestival:sizeable:9, Small Wool
-harvestfestival:sizeable:10, Medium Wool
-harvestfestival:sizeable:11, Large Wool
+harvestfestival:storage:1, Mailbox
+harvestfestival:storage:2, Shipping Basket
+harvestfestival:stand:0, Harvest Festival Pot
+harvestfestival:stand:1, Dinner Plate
+harvestfestival:decorative:0, Cooking Stand
 harvestfestival:sprinkler:0, Sprinkler
-harvestfestival:crops_seeds:1, Turnip Seeds
-harvestfestival:crops_seeds:2, Potato Seeds
-harvestfestival:crops_seeds:3, Cucumber Seeds
-harvestfestival:crops_seeds:4, Strawberry Seeds
-harvestfestival:crops_seeds:5, Cabbage Seeds
-harvestfestival:crops_seeds:6, Onion Seeds
-harvestfestival:crops_seeds:7, Tomato Seeds
-harvestfestival:crops_seeds:8, Corn Seeds
-harvestfestival:crops_seeds:9, Pumpkin Seeds
-harvestfestival:crops_seeds:10, Pineapple Seeds
-harvestfestival:crops_seeds:11, Watermelon Seeds
-harvestfestival:crops_seeds:12, Eggplant Seeds
-harvestfestival:crops_seeds:13, Spinach Seeds
-harvestfestival:crops_seeds:14, Carrot Seeds
-harvestfestival:crops_seeds:15, Sweet Potato Seeds
-harvestfestival:crops_seeds:16, Green Pepper Seeds
-harvestfestival:crops_seeds:17, Beetroot Seeds
-harvestfestival:crops_seeds:18, Grass Seeds
-harvestfestival:crops_seeds:19, Wheat Seeds
-harvestfestival:crops_seeds:20, Nether Wart Seeds
-harvestfestival:crops_seeds:21, Hardy Turnip Seeds
-harvestfestival:crops_seeds:22, Industrial Hemp Seeds
-harvestfestival:crops:1, Turnip
-harvestfestival:crops:3, Cucumber
-harvestfestival:crops:4, Strawberry
-harvestfestival:crops:5, Cabbage
-harvestfestival:crops:6, Onion
-harvestfestival:crops:7, Tomato
-harvestfestival:crops:8, Corn
-harvestfestival:crops:10, Pineapple
-harvestfestival:crops:12, Eggplant
-harvestfestival:crops:13, Spinach
-harvestfestival:crops:15, Sweet Potato
-harvestfestival:crops:16, Green Pepper
-harvestfestival:crops:18, Fodder
-harvestfestival:crops:21, Hardy Turnip
+harvestfestival:sprinkler:1, Old Sprinkler
+harvestfestival:fruit:0, Harvestable Apple
+harvestfestival:fruit:1, Harvestable Banana
+harvestfestival:fruit:2, Harvestable Grape
+harvestfestival:fruit:3, Harvestable Orange
+harvestfestival:fruit:4, Harvestable Peach
+harvestfestival:leaves_fruit:0, Apple Leaves
+harvestfestival:leaves_fruit:1, Grape Leaves
+harvestfestival:leaves_fruit:2, Orange Leaves
+harvestfestival:leaves_fruit:3, Peach Leaves
+harvestfestival:leaves_tropical:0, Banana Leaves
+harvestfestival:crops_seeds, item.crops.seeds.name
+harvestfestival:crops:0, Turnip
+harvestfestival:crops:2, Cucumber
+harvestfestival:crops:3, Strawberry
+harvestfestival:crops:4, Cabbage
+harvestfestival:crops:5, Onion
+harvestfestival:crops:6, Tomato
+harvestfestival:crops:7, Corn
+harvestfestival:crops:9, Pineapple
+harvestfestival:crops:11, Eggplant
+harvestfestival:crops:12, Spinach
+harvestfestival:crops:14, Sweet Potato
+harvestfestival:crops:15, Green Pepper
+harvestfestival:crops:17, Fodder
+harvestfestival:crops:20, Hardy Turnip
+harvestfestival:crops:21, Banana
+harvestfestival:crops:22, Grape
+harvestfestival:crops:23, Orange
+harvestfestival:crops:24, Peach
+harvestfestival:structures, harvestfestival.structures.name
+harvestfestival:blueprint, harvestfestival.blueprint.name
+harvestfestival:spawner_npc, harvestfestival.spawner.npc.name
+harvestfestival:tool_npc:1, §bInstant Entity Killer
 harvestfestival:cookware:1, Fridge
 harvestfestival:cookware:2, Kitchen Counter
 harvestfestival:cookware:3, Cooking Pot
@@ -18326,151 +18329,91 @@ harvestfestival:meal:46, Doria
 harvestfestival:meal:47, Cookies
 harvestfestival:meal:48, Chocolate Cookies
 harvestfestival:meal:49, Chocolate Cake
-harvestfestival:recipe:0, Savoury Pancake Recipe
-harvestfestival:recipe:1, French Fries Recipe
-harvestfestival:recipe:2, Popcorn Recipe
-harvestfestival:recipe:3, Cornflakes Recipe
-harvestfestival:recipe:4, Happy Eggplant Recipe
-harvestfestival:recipe:5, Scrambled Eggs Recipe
-harvestfestival:recipe:6, Omelette Recipe
-harvestfestival:recipe:7, Omurice Recipe
-harvestfestival:recipe:8, French Toast Recipe
-harvestfestival:recipe:9, Doughnut Recipe
-harvestfestival:recipe:10, Grilled Fish Recipe
-harvestfestival:recipe:11, Pancake Recipe
-harvestfestival:recipe:12, Potsticker Recipe
-harvestfestival:recipe:13, Risotto Recipe
-harvestfestival:recipe:14, Pineapple Juice Recipe
-harvestfestival:recipe:15, Tomato Juice Recipe
-harvestfestival:recipe:16, Strawberry Milk Recipe
-harvestfestival:recipe:17, Vegetable Juice Recipe
-harvestfestival:recipe:18, Vegetable Latte Recipe
-harvestfestival:recipe:19, Ketchup Recipe
-harvestfestival:recipe:20, Butter Recipe
-harvestfestival:recipe:21, Fish Fingers Recipe
-harvestfestival:recipe:22, Pickled Turnip Recipe
-harvestfestival:recipe:23, Pickled Cucumber Recipe
-harvestfestival:recipe:24, Salad Recipe
-harvestfestival:recipe:25, Sandwich Recipe
-harvestfestival:recipe:26, Sushi Recipe
-harvestfestival:recipe:27, Sashimi Recipe
-harvestfestival:recipe:28, Chirashi Sushi Recipe
-harvestfestival:recipe:29, Hot Milk Recipe
-harvestfestival:recipe:30, Hot Chocolate Recipe
-harvestfestival:recipe:31, Boiled Egg Recipe
-harvestfestival:recipe:32, Boiled Spinach Recipe
-harvestfestival:recipe:33, Candied Potato Recipe
-harvestfestival:recipe:34, Dumplings Recipe
-harvestfestival:recipe:35, Noodles Recipe
-harvestfestival:recipe:36, Rice Soup Recipe
-harvestfestival:recipe:37, Porridge Recipe
-harvestfestival:recipe:38, Egg Over Rice Recipe
-harvestfestival:recipe:39, Stew Recipe
-harvestfestival:recipe:40, Pumpkin Stew Recipe
-harvestfestival:recipe:41, Fish Stew Recipe
-harvestfestival:recipe:42, Baked Corn Recipe
-harvestfestival:recipe:43, Toasted Rice Balls Recipe
-harvestfestival:recipe:44, Toast Recipe
-harvestfestival:recipe:45, Dinner Roll Recipe
-harvestfestival:recipe:46, Doria Recipe
-harvestfestival:recipe:47, Cookies Recipe
-harvestfestival:recipe:48, Chocolate Cookies Recipe
-harvestfestival:recipe:49, Chocolate Cake Recipe
+harvestfestival:meal:55, Stir Fry
+harvestfestival:meal:56, Fried Rice
+harvestfestival:meal:57, Apple Souffle
+harvestfestival:meal:58, Curry Bread
+harvestfestival:meal:59, Fried Thick Noodles
+harvestfestival:meal:60, Tempura
+harvestfestival:meal:61, Dry Curry
+harvestfestival:meal:62, Grape Juice
+harvestfestival:meal:63, Peach Juice
+harvestfestival:meal:64, Banana Juice
+harvestfestival:meal:65, Orange Juice
+harvestfestival:meal:66, Apple Juice
+harvestfestival:meal:67, Fruit Juice
+harvestfestival:meal:68, Fruit Latte
+harvestfestival:meal:69, Mixed Juice
+harvestfestival:meal:70, Mixed Latte
+harvestfestival:meal:71, Fruit Sandwich
+harvestfestival:meal:72, Bamboo Rice
+harvestfestival:meal:73, Matsutake Rice
+harvestfestival:meal:74, Mushroom Rice
+harvestfestival:meal:75, Raisin Bread
+harvestfestival:meal:76, Ice Cream
+harvestfestival:meal:77, Strawberry Jam
+harvestfestival:meal:78, Apple Jam
+harvestfestival:meal:79, Grape Jam
+harvestfestival:meal:80, Marmalade
+harvestfestival:meal:81, Tempura Noodles
+harvestfestival:meal:82, Tempura Rice
+harvestfestival:meal:83, Jam Bun
+harvestfestival:meal:84, Sweet Potatoes
+harvestfestival:meal:85, Cake
+harvestfestival:meal:86, Apple Pie
+harvestfestival:meal:87, Herb Salad
+harvestfestival:meal:88, Herb Soup
+harvestfestival:meal:89, Herb Sandwich
+harvestfestival:recipe, harvestfestival.recipe.name
 harvestfestival:cookbook, harvestfestival.cookbook.name
 harvestfestival:utensils:1, Kitchen Knife
+harvestfestival:ingredients:0, Curry Powder
+harvestfestival:ingredients:2, Wine
 harvestfestival:ingredients:5, Flour
 harvestfestival:ingredients:6, Cooking Oil
 harvestfestival:ingredients:7, Riceball
 harvestfestival:ingredients:8, Salt
 harvestfestival:ingredients:9, Chocolate
-harvestfestival:spawner_npc:1, Harvest Goddess
-harvestfestival:spawner_npc:2, Jim
-harvestfestival:spawner_npc:3, Liara
-harvestfestival:spawner_npc:4, Jade
-harvestfestival:spawner_npc:5, Cloe
-harvestfestival:spawner_npc:6, Tomas
-harvestfestival:spawner_npc:7, Fenn
-harvestfestival:spawner_npc:8, Granny Katlin
-harvestfestival:spawner_npc:9, Mayor Jeimmi
-harvestfestival:spawner_npc:10, Yulif
-harvestfestival:spawner_npc:11, Danieru
-harvestfestival:spawner_npc:12, Abii
-harvestfestival:spawner_npc:13, Tiberius
-harvestfestival:spawner_npc:14, Jenni
-harvestfestival:spawner_npc:15, Brandon
-harvestfestival:spawner_npc:16, Jakob
-harvestfestival:spawner_npc:17, Candice
-harvestfestival:spawner_npc:18, Ashlee
-harvestfestival:spawner_npc:19, Johan
-harvestfestival:tool_npc:0, §bBlue Feather
-harvestfestival:tool_npc:1, §bInstant Entity Killer
-harvestfestival:structures:0, [SPAWN] Animal Ranch
-harvestfestival:structures:1, [SPAWN] Blacksmith
-harvestfestival:structures:2, [SPAWN] Cafe
-harvestfestival:structures:3, [SPAWN] Carpenter
-harvestfestival:structures:4, [SPAWN] Church
-harvestfestival:structures:5, [SPAWN] Clockmaker
-harvestfestival:structures:6, [SPAWN] Fishing Hole
-harvestfestival:structures:7, [SPAWN] Fishing Hut
-harvestfestival:structures:8, [SPAWN] Goddess Pond
-harvestfestival:structures:9, [SPAWN] Mining Hill
-harvestfestival:structures:10, [SPAWN] Mining Hut
-harvestfestival:structures:11, [SPAWN] Poultry Farm
-harvestfestival:structures:12, [SPAWN] General Store
-harvestfestival:structures:13, [SPAWN] Townhall
-harvestfestival:blueprint:0, Blueprint: Animal Ranch
-harvestfestival:blueprint:1, Blueprint: Blacksmith
-harvestfestival:blueprint:2, Blueprint: Cafe
-harvestfestival:blueprint:3, Blueprint: Carpenter
-harvestfestival:blueprint:4, Blueprint: Church
-harvestfestival:blueprint:5, Blueprint: Clockmaker
-harvestfestival:blueprint:6, Blueprint: Fishing Hole
-harvestfestival:blueprint:7, Blueprint: Fishing Hut
-harvestfestival:blueprint:8, Blueprint: Goddess Pond
-harvestfestival:blueprint:9, Blueprint: Mining Hill
-harvestfestival:blueprint:10, Blueprint: Mining Hut
-harvestfestival:blueprint:11, Blueprint: Poultry Farm
-harvestfestival:blueprint:12, Blueprint: General Store
-harvestfestival:blueprint:13, Blueprint: Townhall
-harvestfestival:rock:0, Small Rock
-harvestfestival:rock:1, Medium Rock
-harvestfestival:rock:2, Large Rock
-harvestfestival:rock:3, Small Boulder
-harvestfestival:rock:4, Medium Boulder
-harvestfestival:rock:5, Large Boulder
-harvestfestival:wood:0, Small Branch
-harvestfestival:wood:1, Medium Branch
-harvestfestival:wood:2, Large Branch
-harvestfestival:wood:3, Small Stump
-harvestfestival:wood:4, Medium Stump
-harvestfestival:wood:5, Large Stump
-harvestfestival:ore:0, Rock
-harvestfestival:ore:1, Copper Node
-harvestfestival:ore:2, Silver Node
-harvestfestival:ore:3, Gold Node
-harvestfestival:ore:4, Mystril Node
-harvestfestival:stone:0, Mine Wall
-harvestfestival:stone:1, Mine Wall
-harvestfestival:stone:2, Mine Wall
-harvestfestival:stone:3, Mine Wall
-harvestfestival:stone:4, Mine Wall
-harvestfestival:stone:5, Mine Wall
-harvestfestival:stone:6, Mine Wall
-harvestfestival:dirt:0, Mine Floor
-harvestfestival:dirt_decorative:0, Mine Floor
-harvestfestival:ladder:0, Mine Ladder
-harvestfestival:ladder:1, Mine Ladder
-harvestfestival:materials:0, §fJunk Ore
-harvestfestival:materials:1, §fCopper Ore
-harvestfestival:materials:2, §fSilver Ore
-harvestfestival:materials:3, §fGold Ore
-harvestfestival:materials:4, §fMystril Ore
-harvestfestival:materials:5, §aMythic Stone
-harvestfestival:dark_spawner:0, Dark Cow
-harvestfestival:dark_spawner:1, Dark Sheep
-harvestfestival:dark_spawner:2, Dark Chicken
-harvestfestival:dark_spawner:3, Dark Chick
-harvestfestival:tool_mining:0, Escape Rope
+harvestfestival:hammer:0, Normal Hammer
+harvestfestival:hammer:1, Copper Hammer
+harvestfestival:hammer:2, Silver Hammer
+harvestfestival:hammer:3, Gold Hammer
+harvestfestival:hammer:4, Mystril Hammer
+harvestfestival:hammer:5, Cursed Hammer
+harvestfestival:hammer:6, Blessed Hammer
+harvestfestival:hammer:7, Mythic Hammer
+harvestfestival:axe:0, Normal Axe
+harvestfestival:axe:1, Copper Axe
+harvestfestival:axe:2, Silver Axe
+harvestfestival:axe:3, Gold Axe
+harvestfestival:axe:4, Mystril Axe
+harvestfestival:axe:5, Cursed Axe
+harvestfestival:axe:6, Blessed Axe
+harvestfestival:axe:7, Mythic Axe
+harvestfestival:sickle:0, Normal Sickle
+harvestfestival:sickle:1, Copper Sickle
+harvestfestival:sickle:2, Silver Sickle
+harvestfestival:sickle:3, Gold Sickle
+harvestfestival:sickle:4, Mystril Sickle
+harvestfestival:sickle:5, Cursed Sickle
+harvestfestival:sickle:6, Blessed Sickle
+harvestfestival:sickle:7, Mythic Sickle
+harvestfestival:hoe:0, Normal Hoe
+harvestfestival:hoe:1, Copper Hoe
+harvestfestival:hoe:2, Silver Hoe
+harvestfestival:hoe:3, Gold Hoe
+harvestfestival:hoe:4, Mystril Hoe
+harvestfestival:hoe:5, Cursed Hoe
+harvestfestival:hoe:6, Blessed Hoe
+harvestfestival:hoe:7, Mythic Hoe
+harvestfestival:wateringcan:0, Normal Watering Can
+harvestfestival:wateringcan:1, Copper Watering Can
+harvestfestival:wateringcan:2, Silver Watering Can
+harvestfestival:wateringcan:3, Gold Watering Can
+harvestfestival:wateringcan:4, Mystril Watering Can
+harvestfestival:wateringcan:5, Cursed Watering Can
+harvestfestival:wateringcan:6, Blessed Watering Can
+harvestfestival:wateringcan:7, Mythic Watering Can
 harvestfestival:animal:0, Cow
 harvestfestival:animal:1, Sheep
 harvestfestival:animal:2, Chicken
@@ -18483,54 +18426,149 @@ harvestfestival:treat:0, Cow Treat
 harvestfestival:treat:1, Sheep Treat
 harvestfestival:treat:2, Chicken Treat
 harvestfestival:treat:3, Treat
+harvestfestival:sizeable:0, Small Egg
+harvestfestival:sizeable:1, Medium Egg
+harvestfestival:sizeable:2, Large Egg
+harvestfestival:sizeable:3, Small Milk
+harvestfestival:sizeable:4, Medium Milk
+harvestfestival:sizeable:5, Large Milk
+harvestfestival:sizeable:6, Small Mayonnaise
+harvestfestival:sizeable:7, Medium Mayonnaise
+harvestfestival:sizeable:8, Large Mayonnaise
+harvestfestival:sizeable:9, Small Wool
+harvestfestival:sizeable:10, Medium Wool
+harvestfestival:sizeable:11, Large Wool
 harvestfestival:trough:0, Food Trough
 harvestfestival:sized:0, Incubator
 harvestfestival:tray:0, Nest Box
-harvestfestival:tray:1, Nest Box with Small Chicken Egg
-harvestfestival:tray:2, Nest Box with Medium Chicken Egg
-harvestfestival:tray:3, Nest Box with Large Chicken Egg
 harvestfestival:tray:4, Feeding Tray
-harvestfestival:tray:5, Feeding Tray with Food
-harvestfestival:hammer:0, Hammer
-harvestfestival:hammer:1, Copper Hammer
-harvestfestival:hammer:2, Silver Hammer
-harvestfestival:hammer:3, Gold Hammer
-harvestfestival:hammer:4, Mystril Hammer
-harvestfestival:hammer:5, Cursed Hammer
-harvestfestival:hammer:6, Blessed Hammer
-harvestfestival:hammer:7, Mythic Hammer
-harvestfestival:axe:0, Axe
-harvestfestival:axe:1, Copper Axe
-harvestfestival:axe:2, Silver Axe
-harvestfestival:axe:3, Gold Axe
-harvestfestival:axe:4, Mystril Axe
-harvestfestival:axe:5, Cursed Axe
-harvestfestival:axe:6, Blessed Axe
-harvestfestival:axe:7, Mythic Axe
-harvestfestival:sickle:0, Sickle
-harvestfestival:sickle:1, Copper Sickle
-harvestfestival:sickle:2, Silver Sickle
-harvestfestival:sickle:3, Gold Sickle
-harvestfestival:sickle:4, Mystril Sickle
-harvestfestival:sickle:5, Cursed Sickle
-harvestfestival:sickle:6, Blessed Sickle
-harvestfestival:sickle:7, Mythic Sickle
-harvestfestival:hoe:0, Hoe
-harvestfestival:hoe:1, Copper Hoe
-harvestfestival:hoe:2, Silver Hoe
-harvestfestival:hoe:3, Gold Hoe
-harvestfestival:hoe:4, Mystril Hoe
-harvestfestival:hoe:5, Cursed Hoe
-harvestfestival:hoe:6, Blessed Hoe
-harvestfestival:hoe:7, Mythic Hoe
-harvestfestival:wateringcan:0, Watering Can
-harvestfestival:wateringcan:1, Copper Watering Can
-harvestfestival:wateringcan:2, Silver Watering Can
-harvestfestival:wateringcan:3, Gold Watering Can
-harvestfestival:wateringcan:4, Mystril Watering Can
-harvestfestival:wateringcan:5, Cursed Watering Can
-harvestfestival:wateringcan:6, Blessed Watering Can
-harvestfestival:wateringcan:7, Mythic Watering Can
+harvestfestival:nature:0, Matsutake Mushroom
+harvestfestival:nature:1, Bamboo
+harvestfestival:nature:2, Mint
+harvestfestival:nature:3, Chamomile
+harvestfestival:nature:4, Lavender
+harvestfestival:rock:0, Small Rock
+harvestfestival:rock:1, Medium Rock
+harvestfestival:rock:2, Large Rock
+harvestfestival:rock:3, Small Boulder
+harvestfestival:rock:4, Medium Boulder
+harvestfestival:rock:5, Large Boulder
+harvestfestival:wood:0, Small Branch
+harvestfestival:wood:1, Medium Branch
+harvestfestival:wood:2, Large Branch
+harvestfestival:wood:3, Small Stump
+harvestfestival:wood:4, Medium Stump
+harvestfestival:wood:5, Large Stump
+harvestfestival:book:0, Farming for Dummies
+harvestfestival:book:1, Calendar
+harvestfestival:fish:0, Anchovy
+harvestfestival:fish:1, Angelfish
+harvestfestival:fish:2, Anglerfish
+harvestfestival:fish:3, Bass
+harvestfestival:fish:4, Silver-Stripe Blaasop
+harvestfestival:fish:5, Bowfin
+harvestfestival:fish:6, Butterflyfish
+harvestfestival:fish:7, Carp
+harvestfestival:fish:8, Catfish
+harvestfestival:fish:9, Chub
+harvestfestival:fish:10, Clownfish
+harvestfestival:fish:11, Cod
+harvestfestival:fish:12, Damselfish
+harvestfestival:fish:13, Electric Ray
+harvestfestival:fish:14, Goldfish
+harvestfestival:fish:15, Red Herring
+harvestfestival:fish:16, Koi
+harvestfestival:fish:17, Lamprey
+harvestfestival:fish:18, Lungfish
+harvestfestival:fish:19, Manta Ray
+harvestfestival:fish:20, Minnow
+harvestfestival:fish:21, Perch
+harvestfestival:fish:22, Pickerel
+harvestfestival:fish:23, Pike
+harvestfestival:fish:24, Piranha
+harvestfestival:fish:25, Pufferfish
+harvestfestival:fish:26, Pupfish
+harvestfestival:fish:27, Salmon
+harvestfestival:fish:28, Sardine
+harvestfestival:fish:29, Siamese Fightin' Fish
+harvestfestival:fish:30, Whitemargin Stargazer
+harvestfestival:fish:31, Sting Ray
+harvestfestival:fish:32, Blue Tang
+harvestfestival:fish:33, Neon Tetra
+harvestfestival:fish:34, Rainbow Trout
+harvestfestival:fish:35, Tuna
+harvestfestival:fish:36, Walleye
+harvestfestival:junk:0, Empty Can
+harvestfestival:junk:1, Boot
+harvestfestival:junk:2, Pirate Treasure
+harvestfestival:junk:3, Fish Bones
+harvestfestival:junk:4, Fish Fossil
+harvestfestival:junk:5, Bait
+harvestfestival:fishing_rod:0, Normal Fishing Rod
+harvestfestival:fishing_rod:1, Copper Fishing Rod
+harvestfestival:fishing_rod:2, Silver Fishing Rod
+harvestfestival:fishing_rod:3, Gold Fishing Rod
+harvestfestival:fishing_rod:4, Mystril Fishing Rod
+harvestfestival:fishing_rod:5, Cursed Fishing Rod
+harvestfestival:fishing_rod:6, Blessed Fishing Rod
+harvestfestival:fishing_rod:7, Mythic Fishing Rod
+harvestfestival:aquatic:0, Fish Trap
+harvestfestival:floating:0, Hatchery
+harvestfestival:ore:0, Rock
+harvestfestival:ore:1, Copper Node
+harvestfestival:ore:2, Silver Node
+harvestfestival:ore:3, Gold Node
+harvestfestival:ore:4, Mystril Node
+harvestfestival:ore:5, Gem Node
+harvestfestival:ore:6, Emerald Node
+harvestfestival:ore:7, Diamond Node
+harvestfestival:ore:8, Ruby Node
+harvestfestival:ore:9, Amethyst Node
+harvestfestival:ore:10, Topaz Node
+harvestfestival:ore:11, Jade Node
+harvestfestival:stone:0, Mine Wall
+harvestfestival:stone:1, Mine Wall
+harvestfestival:stone:2, Mine Wall
+harvestfestival:stone:3, Mine Wall
+harvestfestival:stone:4, Mine Wall
+harvestfestival:stone:5, Mine Wall
+harvestfestival:stone:6, Mine Wall
+harvestfestival:stone:7, Secret Passage???
+harvestfestival:dirt:0, Mine Floor
+harvestfestival:dirt_decorative:0, Mine Floor
+harvestfestival:ladder:1, Mine Ladder
+harvestfestival:elevator:1, Elevator
+harvestfestival:materials:0, §fJunk Ore
+harvestfestival:materials:1, §fCopper Ore
+harvestfestival:materials:2, §fSilver Ore
+harvestfestival:materials:3, §fGold Ore
+harvestfestival:materials:4, §fMystril Ore
+harvestfestival:materials:5, §aMythic Stone
+harvestfestival:materials:6, §fAdamantite
+harvestfestival:materials:7, §fAgate
+harvestfestival:materials:8, §fAlexandrite
+harvestfestival:materials:9, §fAmethyst
+harvestfestival:materials:10, §fFluorite
+harvestfestival:materials:11, §fMoonstone
+harvestfestival:materials:12, §fOrichalc
+harvestfestival:materials:13, §fPeridot
+harvestfestival:materials:14, §fPink Diamond
+harvestfestival:materials:15, §fRuby
+harvestfestival:materials:16, §fSandrose
+harvestfestival:materials:17, §fTopaz
+harvestfestival:materials:18, §fJade
+harvestfestival:materials:19, §fGold Coin
+harvestfestival:materials:20, §fSilver Coin
+harvestfestival:materials:21, §fCopper Coin
+harvestfestival:dark_spawner:0, Dark Cow
+harvestfestival:dark_spawner:1, Dark Sheep
+harvestfestival:dark_spawner:2, Dark Chicken
+harvestfestival:dark_spawner:3, Dark Chick
+harvestfestival:dark_drop:0, Black Feather
+harvestfestival:dark_drop:1, Black Leather
+harvestfestival:tool_mining:0, Escape Rope
+harvestfestival:tool_mining:1, Elevator Cable
+harvestfestival:quest_block:0, Quest Board
 ichunutil:compact_porkchop, Compact Raw Porkchop
 headcrumbs:skull:0, Blaze Head
 headcrumbs:skull:0, Enderman Head
@@ -18598,6 +18636,56 @@ ironchest:BlockIronChest:4, Silver Chest
 ironchest:BlockIronChest:5, Crystal Chest
 ironchest:BlockIronChest:6, Obsidian Chest
 ironchest:BlockIronChest:7, DirtChest 9000!
+malisisblocks:vanishing_block:0, Wooden Vanishing Frame
+malisisblocks:vanishing_block:1, Iron Vanishing Frame
+malisisblocks:vanishing_block:2, Gold Vanishing Frame
+malisisblocks:vanishing_block:3, Diamond Vanishing Frame
+malisisblocks:vanishingCopier, item.vanishingCopier.name
+malisisblocks:block_mixer, Block Mixer
+malisisblocks:mixed_block, Mixed Block
+malisisblocks:player_sensor, Player Sensor
+malisisblocks:swapper, Swapper
+malisisdoors:wood_sliding_door, Wooden Glass Door
+malisisdoors:iron_sliding_door, Iron Glass Door
+malisisdoors:jail_door, Jail Door
+malisisdoors:laboratory_door, Laboratory Door
+malisisdoors:factory_door, Factory Door
+malisisdoors:shoji_door, Shoji Door
+malisisdoors:curtain_white, White Curtain
+malisisdoors:curtain_orange, Orange Curtain
+malisisdoors:curtain_magenta, Magenta Curtain
+malisisdoors:curtain_light_blue, Light Blue Curtain
+malisisdoors:curtain_yellow, Yellow Curtain
+malisisdoors:curtain_lime, Lime Curtain
+malisisdoors:curtain_pink, Pink Curtain
+malisisdoors:curtain_gray, Gray Curtain
+malisisdoors:curtain_silver, SilverCurtain
+malisisdoors:curtain_cyan, Cyan Curtain
+malisisdoors:curtain_purple, Purple Curtain
+malisisdoors:curtain_blue, Blue Curtain
+malisisdoors:curtain_brown, Brown Curtain
+malisisdoors:curtain_green, Green Curtain
+malisisdoors:curtain_red, Red Curtain
+malisisdoors:curtain_black, Black Curtain
+malisisdoors:customDoorItem, item.customDoorItem.name
+malisisdoors:saloon, Saloon Door
+malisisdoors:verticalHatch, Reinforced Door
+malisisdoors:carriage_door, Carriage Door
+malisisdoors:medieval_door, Medieval Door
+malisisdoors:sliding_trapdoor, Sliding Trapdoor
+malisisdoors:trapdoor_acacia, Acacia Trapdoor
+malisisdoors:trapdoor_birch, Birch Trapdoor
+malisisdoors:trapdoor_dark_oak, Dark Oak Trapdoor
+malisisdoors:trapdoor_jungle, Jungle Trapdoor
+malisisdoors:trapdoor_spruce, Spruce Trapdoor
+malisisdoors:camoFenceGate, Camo Fence Gate
+malisisdoors:garage_door, Garage Door
+malisisdoors:door_factory, Door Factory
+malisisdoors:rustyHatch, Rusty Hatch
+malisisdoors:rustyHandle, Rusty Handle
+malisisdoors:rustyLadder, Rusty Ladder
+malisisdoors:forcefieldItem, Forcefield Controller
+malisisdoors:hitechdoor, Hi-tech Door
 mekanism:MultipartTransmitter:0, Basic Universal Cable
 mekanism:MultipartTransmitter:1, Advanced Universal Cable
 mekanism:MultipartTransmitter:2, Elite Universal Cable
@@ -18788,6 +18876,69 @@ mekanism:BasicBlock2:6, Pressure Disperser
 mekanism:BasicBlock2:7, Boiler Casing
 mekanism:BasicBlock2:8, Boiler Valve
 mekanism:BasicBlock2:9, Security Desk
+mekanism:MachineBlock:0, Enrichment Chamber
+mekanism:MachineBlock:1, Osmium Compressor
+mekanism:MachineBlock:2, Combiner
+mekanism:MachineBlock:3, Crusher
+mekanism:MachineBlock:4, Digital Miner
+mekanism:MachineBlock:5, Basic Smelting Factory
+mekanism:MachineBlock:5, Basic Enriching Factory
+mekanism:MachineBlock:5, Basic Crushing Factory
+mekanism:MachineBlock:5, Basic Compressing Factory
+mekanism:MachineBlock:5, Basic Combining Factory
+mekanism:MachineBlock:5, Basic Purifying Factory
+mekanism:MachineBlock:5, Basic Injecting Factory
+mekanism:MachineBlock:5, Basic Infusing Factory
+mekanism:MachineBlock:6, Advanced Smelting Factory
+mekanism:MachineBlock:6, Advanced Enriching Factory
+mekanism:MachineBlock:6, Advanced Crushing Factory
+mekanism:MachineBlock:6, Advanced Compressing Factory
+mekanism:MachineBlock:6, Advanced Combining Factory
+mekanism:MachineBlock:6, Advanced Purifying Factory
+mekanism:MachineBlock:6, Advanced Injecting Factory
+mekanism:MachineBlock:6, Advanced Infusing Factory
+mekanism:MachineBlock:7, Elite Smelting Factory
+mekanism:MachineBlock:7, Elite Enriching Factory
+mekanism:MachineBlock:7, Elite Crushing Factory
+mekanism:MachineBlock:7, Elite Compressing Factory
+mekanism:MachineBlock:7, Elite Combining Factory
+mekanism:MachineBlock:7, Elite Purifying Factory
+mekanism:MachineBlock:7, Elite Injecting Factory
+mekanism:MachineBlock:7, Elite Infusing Factory
+mekanism:MachineBlock:8, Metallurgic Infuser
+mekanism:MachineBlock:9, Purification Chamber
+mekanism:MachineBlock:10, Energized Smelter
+mekanism:MachineBlock:11, Teleporter
+mekanism:MachineBlock:12, Electric Pump
+mekanism:MachineBlock:13, Personal Chest
+mekanism:MachineBlock:14, Chargepad
+mekanism:MachineBlock:15, Logistical Sorter
+mekanism:MachineBlock2:0, Rotary Condensentrator
+mekanism:MachineBlock2:1, Chemical Oxidizer
+mekanism:MachineBlock2:2, Chemical Infuser
+mekanism:MachineBlock2:3, Chemical Injection Chamber
+mekanism:MachineBlock2:4, Electrolytic Separator
+mekanism:MachineBlock2:5, Precision Sawmill
+mekanism:MachineBlock2:6, Chemical Dissolution Chamber
+mekanism:MachineBlock2:7, Chemical Washer
+mekanism:MachineBlock2:8, Chemical Crystallizer
+mekanism:MachineBlock2:9, Seismic Vibrator
+mekanism:MachineBlock2:10, Pressurized Reaction Chamber
+mekanism:MachineBlock2:11, Basic Fluid Tank
+mekanism:MachineBlock2:11, Advanced Fluid Tank
+mekanism:MachineBlock2:11, Elite Fluid Tank
+mekanism:MachineBlock2:11, Ultimate Fluid Tank
+mekanism:MachineBlock2:11, Creative Fluid Tank
+mekanism:MachineBlock2:12, Fluidic Plenisher
+mekanism:MachineBlock2:13, Laser
+mekanism:MachineBlock2:14, Laser Amplifier
+mekanism:MachineBlock2:15, Laser Tractor Beam
+mekanism:MachineBlock3:0, Quantum Entangloporter
+mekanism:MachineBlock3:1, Solar Neutron Activator
+mekanism:MachineBlock3:3, Oredictionificator
+mekanism:MachineBlock3:4, Resistive Heater
+mekanism:MachineBlock3:5, Formulaic Assemblicator
+mekanism:MachineBlock3:6, Fuelwood Heater
 mekanism:OreBlock:0, Osmium Ore
 mekanism:OreBlock:1, Copper Ore
 mekanism:OreBlock:2, Tin Ore
@@ -18807,6 +18958,21 @@ mekanism:GasTank:0, Basic Gas Tank
 mekanism:GasTank:0, Advanced Gas Tank
 mekanism:GasTank:0, Elite Gas Tank
 mekanism:GasTank:0, Ultimate Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
+mekanism:GasTank:0, Creative Gas Tank
 mekanism:GasTank:0, Creative Gas Tank
 mekanism:CardboardBox, Cardboard Box
 mekanism:PlasticBlock:0, §8Black Plastic Block
@@ -18906,6 +19072,12 @@ mekanism:PlasticFence:13, §dMagenta Plastic Barrier
 mekanism:PlasticFence:14, §6Orange Plastic Barrier
 mekanism:PlasticFence:15, §fWhite Plastic Barrier
 mekanism:SaltBlock, Salt Block
+mekanismgenerators:Generator:0, Heat Generator
+mekanismgenerators:Generator:1, Solar Generator
+mekanismgenerators:Generator:3, Gas-Burning Generator
+mekanismgenerators:Generator:4, Bio-Generator
+mekanismgenerators:Generator:5, Advanced Solar Generator
+mekanismgenerators:Generator:6, Wind Generator
 mekanismgenerators:Generator:7, Turbine Rotor
 mekanismgenerators:Generator:8, Rotational Complex
 mekanismgenerators:Generator:9, Electromagnetic Coil
@@ -19192,6 +19364,36 @@ minefactoryreloaded:needle_gun_ammo_anvil, Needlegun Ammo (Anvil)
 minefactoryreloaded:rocket_launcher, SPAMR Launcher
 minefactoryreloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
 minefactoryreloaded:rocket:1, Self-Propelled Anti Material Rocket
+powersuits:powerArmorHead, Power Armor Helmet
+powersuits:powerArmorTorso, Power Armor Chestplate
+powersuits:powerArmorLegs, Power Armor Leggings
+powersuits:powerArmorFeet, Power Armor Boots
+powersuits:powerTool, Power Fist
+powersuits:tile.tinkerTable, Power Armor Tinker Table
+powersuits:tile.luxCapacitor, Lux Capacitor
+powersuits:powerArmorComponent:0, Wiring
+powersuits:powerArmorComponent:1, Solenoid
+powersuits:powerArmorComponent:2, Servo Motor
+powersuits:powerArmorComponent:3, Glider Wing
+powersuits:powerArmorComponent:4, Ion Thruster
+powersuits:powerArmorComponent:5, LV Capacitor
+powersuits:powerArmorComponent:6, MV Capacitor
+powersuits:powerArmorComponent:7, HV Capacitor
+powersuits:powerArmorComponent:8, EV Capacitor
+powersuits:powerArmorComponent:9, Parachute
+powersuits:powerArmorComponent:10, Basic Plating
+powersuits:powerArmorComponent:11, Advanced Plating
+powersuits:powerArmorComponent:12, Force Field Emitter
+powersuits:powerArmorComponent:13, Hologram Emitter
+powersuits:powerArmorComponent:14, Carbon Myofiber
+powersuits:powerArmorComponent:15, Control Circuit
+powersuits:powerArmorComponent:16, Myofiber Gel
+powersuits:powerArmorComponent:17, Artificial Muscle
+powersuits:powerArmorComponent:18, Solar Panel
+powersuits:powerArmorComponent:19, Magnet
+powersuits:powerArmorComponent:20, Computer Chip
+powersuits:powerArmorComponent:21, Insulated Rubber Hose
+powersuits:powerArmorComponent:22, Liquid Nitrogen Bucket
 mysticalagriculture:inferium_block, §eInferium Block
 mysticalagriculture:prudentium_block, §aPrudentium Block
 mysticalagriculture:intermedium_block, §6Intermedium Block
@@ -22193,31 +22395,31 @@ rftoolsdim:structure_essence:8, Structure Swamp Hut Essence
 rftoolsdim:structure_essence:9, Structure Desert Temple Essence
 rftoolsdim:structure_essence:10, Structure Jungle Temple Essence
 rftoolsdim:structure_essence:11, Structure Igloo Essence
-rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day)
-rftoolsdim:known_dimlet:7, Feature Dimlet (None)
-rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat)
-rftoolsdim:known_dimlet:2, Material Dimlet (Stone)
-rftoolsdim:known_dimlet:13, Weather Dimlet (Default)
 rftoolsdim:known_dimlet:1, Liquid Dimlet (Water)
-rftoolsdim:known_dimlet:10, Effect Dimlet (None)
-rftoolsdim:known_dimlet:9, Digit Dimlet (2)
-rftoolsdim:known_dimlet:12, Controller Dimlet (Default)
-rftoolsdim:known_dimlet:9, Digit Dimlet (1)
-rftoolsdim:known_dimlet:9, Digit Dimlet (0)
-rftoolsdim:known_dimlet:5, Structure Dimlet (None)
-rftoolsdim:known_dimlet:6, Terrain Dimlet (Void)
-rftoolsdim:known_dimlet:9, Digit Dimlet (9)
+rftoolsdim:known_dimlet:3, Mob Dimlet (Default)
+rftoolsdim:known_dimlet:2, Material Dimlet (Stone)
 rftoolsdim:known_dimlet:4, Sky Dimlet (Normal)
-rftoolsdim:known_dimlet:9, Digit Dimlet (8)
-rftoolsdim:known_dimlet:9, Digit Dimlet (7)
-rftoolsdim:known_dimlet:9, Digit Dimlet (6)
-rftoolsdim:known_dimlet:9, Digit Dimlet (5)
+rftoolsdim:known_dimlet:4, Sky Dimlet (Normal day)
+rftoolsdim:known_dimlet:6, Terrain Dimlet (Void)
+rftoolsdim:known_dimlet:12, Controller Dimlet (Single)
 rftoolsdim:known_dimlet:9, Digit Dimlet (4)
 rftoolsdim:known_dimlet:9, Digit Dimlet (3)
-rftoolsdim:known_dimlet:12, Controller Dimlet (Single)
+rftoolsdim:known_dimlet:9, Digit Dimlet (6)
+rftoolsdim:known_dimlet:9, Digit Dimlet (5)
+rftoolsdim:known_dimlet:9, Digit Dimlet (8)
+rftoolsdim:known_dimlet:9, Digit Dimlet (7)
+rftoolsdim:known_dimlet:9, Digit Dimlet (9)
+rftoolsdim:known_dimlet:12, Controller Dimlet (Default)
 rftoolsdim:known_dimlet:4, Sky Dimlet (Normal night)
-rftoolsdim:known_dimlet:3, Mob Dimlet (Default)
+rftoolsdim:known_dimlet:9, Digit Dimlet (0)
+rftoolsdim:known_dimlet:9, Digit Dimlet (2)
+rftoolsdim:known_dimlet:5, Structure Dimlet (None)
+rftoolsdim:known_dimlet:9, Digit Dimlet (1)
+rftoolsdim:known_dimlet:13, Weather Dimlet (Default)
+rftoolsdim:known_dimlet:6, Terrain Dimlet (Flat)
 rftoolsdim:known_dimlet:8, Time Dimlet (Normal)
+rftoolsdim:known_dimlet:7, Feature Dimlet (None)
+rftoolsdim:known_dimlet:10, Effect Dimlet (None)
 rftoolsdim:efficiency_essence, Efficiency Essence
 rftoolsdim:mediocre_efficiency_essence, Mediocre Efficiency Essence
 rftoolsdim:empty_dimension_tab, Empty Dimension Tab
@@ -22908,12 +23110,12 @@ thermaldynamics:cover:0, Netherrack Cover
 thermaldynamics:cover:0, Soul Sand Cover
 thermaldynamics:cover:0, Glowstone Cover
 thermaldynamics:cover:0, Jack o'Lantern Cover
-thermaldynamics:cover:0, Stone Monster Egg Cover
-thermaldynamics:cover:0, Cobblestone Monster Egg Cover
-thermaldynamics:cover:0, Stone Brick Monster Egg Cover
-thermaldynamics:cover:0, Mossy Stone Brick Monster Egg Cover
-thermaldynamics:cover:0, Cracked Stone Brick Monster Egg Cover
-thermaldynamics:cover:0, Chiseled Stone Brick Monster Egg Cover
+thermaldynamics:cover:0, Stone §4Monster Egg§r Cover
+thermaldynamics:cover:0, Cobblestone §4Monster Egg§r Cover
+thermaldynamics:cover:0, Stone Brick §4Monster Egg§r Cover
+thermaldynamics:cover:0, Mossy Stone Brick §4Monster Egg§r Cover
+thermaldynamics:cover:0, Cracked Stone Brick §4Monster Egg§r Cover
+thermaldynamics:cover:0, Chiseled Stone Brick §4Monster Egg§r Cover
 thermaldynamics:cover:0, Stone Bricks Cover
 thermaldynamics:cover:0, Mossy Stone Bricks Cover
 thermaldynamics:cover:0, Cracked Stone Bricks Cover
@@ -25656,6 +25858,7 @@ thermaldynamics:cover:0, Mine Wall Cover
 thermaldynamics:cover:0, Mine Wall Cover
 thermaldynamics:cover:0, Mine Wall Cover
 thermaldynamics:cover:0, Mine Wall Cover
+thermaldynamics:cover:0, Secret Passage??? Cover
 thermaldynamics:cover:0, Mine Floor Cover
 thermaldynamics:cover:0, Mine Floor Cover
 thermaldynamics:cover:0, Compact Raw Porkchop Cover
@@ -25984,8 +26187,6 @@ thermaldynamics:cover:0, Light Blue Rockwool Cover
 thermaldynamics:cover:0, Magenta Rockwool Cover
 thermaldynamics:cover:0, Orange Rockwool Cover
 thermaldynamics:cover:0, White Rockwool Cover
-thermaldynamics:cover:0, Copper Ore Cover
-thermaldynamics:cover:0, Tin Ore Cover
 thermaldynamics:cover:0, Fluxed Plank Cover
 thermaldynamics:cover:0, Imbued Plank Cover
 thermaldynamics:cover:0, Fluxed Log Cover
@@ -26038,8 +26239,6 @@ vitality:basic_wand_copper, Basic Wand
 vitality:basic_wand_tin, Basic Wand
 vitality:advanced_wand, Advanced Wand
 vitality:master_wand, Master Wand
-vitality:ore_copper, Copper Ore
-vitality:ore_tin, Tin Ore
 vitality:fluxed_plank, Fluxed Plank
 vitality:imbued_plank, Imbued Plank
 vitality:fluxed_log, Fluxed Log

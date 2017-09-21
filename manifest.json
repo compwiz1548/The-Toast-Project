@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "The Toast Project",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "BasicallyToast",
   "projectID": 257819,
   "files": [
@@ -643,6 +643,21 @@
     {
       "projectID": 235442,
       "fileID": 2436660,
+      "required": true
+    },
+    {
+      "projectID": 229876,
+      "fileID": 2429881,
+      "required": true
+    },
+    {
+      "projectID": 269637,
+      "fileID": 2432580,
+      "required": true
+    },
+    {
+      "projectID": 269359,
+      "fileID": 2439348,
       "required": true
     }
   ],

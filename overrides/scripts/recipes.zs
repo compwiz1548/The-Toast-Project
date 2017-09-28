@@ -1,1 +1,2 @@
 recipes.remove(<immersiveengineering:metalDevice1:13>);
+recipes.addShaped(<immersiveengineering:metalDevice1:13>, [[<mysticalagriculture:mystical_fertilizer>, <immersiveengineering:metalDecoration2:4>, <mysticalagriculture:mystical_fertilizer>], [<ore:blockGlass>, <mysticalagradditions:insanium:2>, <ore:blockGlass>], [<ore:plankTreatedWood>, <immersiveengineering:material:8>, <ore:plankTreatedWood>]]);
